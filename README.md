@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+Name: Diego Lara
+
+Passionate about Networking, and Cybersecurity 
+
+Curently working on CCNA: Exam day: Feb 02, 2026
+
+Currently working on Security+: Exam is scheduled at the end of my Junior year.
+
+Future Goal: CCNP 
+
+Completed Certifications:
+
+Network +
+
+
+<img width="800" height="730" alt="NetworkPlus Logo Certified CE" src="https://github.com/user-attachments/assets/9addc6bd-a1d1-4202-acdb-05533d5cc0cd" />
+
 <!--
 **DiegoLara-lab/DiegoLara-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
