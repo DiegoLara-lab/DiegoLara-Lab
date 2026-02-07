@@ -4,7 +4,7 @@ Name: Diego Lara
 
 Passionate about Networking, and Cybersecurity 
 
-Curently working on CCNA: Exam day: Feb 02, 2026
+Curently working on CCNA: Exam day: Feb 02, 2026 (passed)
 
 Currently working on Security+: Exam is scheduled at the end of my Junior year.
 
