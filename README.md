@@ -2,11 +2,20 @@
 
 Name: Diego Lara
 
-Passionate about Networking, and Cybersecurity 
+Passionate about Networking, Cybersecurity, and Building Home Labs.
 
-Curently working on CCNA: Exam day: Feb 02, 2026 (passed)
+early-career networking and cybersecurity professional with hands-on
+experience designing and building real network environments. I hold the **CompTIA
+Network+**, **CompTIA Security+**, and **Cisco CCNA** certifications and actively
+develop my skills through home lab projects and practical networking exercises.
 
-Currently working on Security+: Exam is scheduled at the end of my Junior year.
+I built my own **CCNA home lab** to practice real-world network configuration, routing,
+switching, and security concepts.
+
+My goal is to continue developing practical skills in **network engineering,
+cybersecurity, and infrastructure design** while contributing to secure and reliable
+network environments.
+
 
 Future Goal: CCNP 
 
